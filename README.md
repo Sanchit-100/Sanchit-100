@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchit-100&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit-100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchit-100" alt="sanchit-100" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanchit-maini-8870aa284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchit-maini-8870aa284" height="30" width="40" /></a>
@@ -18,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit-100&show_icons=true&locale=en&layout=compact" alt="sanchit-100" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchit-100&show_icons=true&locale=en" alt="sanchit-100" /></p>
+
